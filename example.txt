@@ -1,0 +1,5 @@
+Hello, Git!
+
+let me add few lines to the fileThis is my attempt to append to the file
+
+This is me trying to append in a new line
